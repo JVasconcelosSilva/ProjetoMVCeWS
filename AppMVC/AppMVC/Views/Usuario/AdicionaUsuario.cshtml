@@ -1,0 +1,122 @@
+﻿@model AppMVC.Models.UsuarioModel
+
+@{
+    ViewBag.Title = "AdicionaUsuario";
+}
+<!--
+<script type="text/javascript" src="@Url.Content("/Scripts/pessoa.js")"></script>-->
+    <script>
+function salvarPessoa() {
+            var id = document.getElementById("id").value;
+            var nome = document.getElementById("nome").value;
+            var sobrenome = document.getElementById("sobrenome").value;
+            var endereco = document.getElementById("endereco").value;
+            var email = document.getElementById("email").value;
+            var nasc = document.getElementById("nasc").value;
+
+            enviarPessoa(id, nome, sobrenome, endereco, email, nasc);
+        }
+
+    function enviarPessoa(id, nome, sobrenome, endereco, email, nasc) {
+        $.post({
+            url: '@Url.Action("GetPessoa", "Usuario")',
+            data: { Id: id, Nome: nome, Sobrenome: sobrenome, Endereco: endereco, Email: email, Nasc: nasc },
+            async: false
+            }).done(function (e) {
+            alert("Enviado com sucesso");
+            }).fail(function() {
+            alert( "error" );
+            })
+
+    }
+    </script>
+
+            <h2>AdicionaUsuario</h2>
+
+            <form method="post" onsubmit="salvarPessoa()">
+                <div class="form-horizontal">
+                    <label>ID</label>
+                    <input type="text" id="id" />
+
+                    <label>Nome</label>
+                    <input type="text" id="nome" />
+
+                    <label>Sobrenome</label>
+                    <input type="text" id="sobrenome" />
+
+                    <label>Endereço</label>
+                    <input type="text" id="endereco" />
+
+                    <label>Email</label>
+                    <input type="email" id="email" />
+
+                    <label>Data de Nascimento</label>
+                    <input type="date" id="nasc" />
+                    <input type="submit" value="Salvar" />
+                </div>
+            </form>
+            <hr />
+
+            @using (Html.BeginForm())
+            {
+                @Html.AntiForgeryToken()
+
+                <div class="form-horizontal">
+                    <h4>UsuarioModel</h4>
+                    <hr />
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.nome, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.nome, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.nome, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.sobrenome, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.sobrenome, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.sobrenome, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.endereco, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.endereco, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.endereco, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.email, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.email, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.email, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.nascimento, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.nascimento, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.nascimento, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-md-offset-2 col-md-10">
+                            <input type="submit" value="Create" class="btn btn-default" />
+                        </div>
+                    </div>
+                </div>
+            }
+
+            <div>
+                @Html.ActionLink("Back to List", "Index")
+            </div>
+
+            @section Scripts {
+                @Scripts.Render("~/bundles/jqueryval")
+            }

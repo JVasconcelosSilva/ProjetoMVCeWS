@@ -1,0 +1,164 @@
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\AppMVC.dll.config
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\AppMVC.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\AppMVC.pdb
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\roslyn\csc.exe
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\roslyn\csc.exe.config
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\roslyn\csc.rsp
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\roslyn\csi.exe
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\roslyn\csi.exe.config
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\roslyn\csi.rsp
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\roslyn\System.AppContext.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\roslyn\System.Console.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\roslyn\vbc.exe
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\roslyn\vbc.exe.config
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\roslyn\vbc.rsp
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\Antlr3.Runtime.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\Newtonsoft.Json.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\System.Web.Helpers.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\System.Web.Mvc.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\System.Web.Optimization.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\System.Web.Razor.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\System.Web.WebPages.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\WebGrease.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\System.Web.Helpers.xml
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\System.Web.Mvc.xml
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\System.Web.Optimization.xml
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\System.Web.Razor.xml
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\System.Web.WebPages.xml
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\Newtonsoft.Json.xml
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\Antlr3.Runtime.pdb
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\obj\Debug\AppMVC.csprojAssemblyReference.cache
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\obj\Debug\AppMVC.csproj.CopyComplete
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\obj\Debug\AppMVC.dll
+C:\Users\T2S - Jefferson\source\repos\AppMVC\AppMVC\obj\Debug\AppMVC.pdb
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\AppMVC.dll.config
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\AppMVC.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\AppMVC.pdb
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\roslyn\csc.exe
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\roslyn\csc.exe.config
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\roslyn\csc.rsp
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\roslyn\csi.exe
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\roslyn\csi.exe.config
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\roslyn\csi.rsp
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\roslyn\System.AppContext.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\roslyn\System.Console.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\roslyn\vbc.exe
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\roslyn\vbc.exe.config
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\roslyn\vbc.rsp
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\Antlr3.Runtime.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\Newtonsoft.Json.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\System.Web.Helpers.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\System.Web.Mvc.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\System.Web.Optimization.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\System.Web.Razor.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\System.Web.WebPages.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\WebGrease.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\System.Web.Helpers.xml
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\System.Web.Mvc.xml
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\System.Web.Optimization.xml
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\System.Web.Razor.xml
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\System.Web.WebPages.xml
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\Newtonsoft.Json.xml
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\Antlr3.Runtime.pdb
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\obj\Debug\AppMVC.csprojAssemblyReference.cache
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\obj\Debug\AppMVC.csproj.CopyComplete
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\obj\Debug\AppMVC.dll
+C:\Users\anota-gols\Source\Repos\AppMVC\AppMVC\obj\Debug\AppMVC.pdb
